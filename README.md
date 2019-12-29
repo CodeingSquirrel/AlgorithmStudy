@@ -1,2 +1,2 @@
 # AlgorithmStudy
-AlgorithmStudy 입니다.
+AlgorithmStudy
