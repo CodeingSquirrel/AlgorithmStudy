@@ -1,8 +1,10 @@
 ## AlgorithmStudy
 
-You can use the [editor on GitHub](https://github.com/GoldSwan/AlgorithmStudy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 개념이해
+알고리즘 문제해결전략 - 입문 과정
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 문제풀이
+algospot, programers
 
 ### Markdown
 
