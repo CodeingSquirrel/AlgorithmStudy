@@ -1,39 +1,20 @@
 ## AlgorithmStudy
+진행방식 : 주1회 해당 주차의 알고리즘 개념 이해 + 문제 풀이 진행 후 코드 리뷰
 
 ### 개념이해
-알고리즘 문제해결전략 - 입문 과정
+알고리즘 문제해결전략 - 입문 과정 진행
 
 ### 문제풀이
-algospot, programers
+프로그래머스, 알고스팟
 
-### Markdown
+### 진행진도
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoldSwan/AlgorithmStudy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1주차
+  -진행진도 : 문제 해결 전략
+  -문제풀이 : 프로그래머스 - 모의고사, 알고스팟 - 록페스티벌
+2주차 
+  -진행진도 : 코딩과 디버깅 (~ 변수 범위의 이해 까지)
+  -문제풀이 : 프로그래머스 - 괄호변환, 알고스팟 - 보글게임
+3주차 
+  -진행진도 : 코딩과 디버깅 (~ 실수 자료형의 이해 까지)
+  -문제풀이 : 프로그래머스 - 소수 찾기, 알고스팟 - 게임판 덮기
